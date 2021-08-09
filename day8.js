@@ -18,4 +18,4 @@ function main() {
     console.log(!!s.match(re));
 }
 
-//notes
+//notes1
