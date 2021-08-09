@@ -17,3 +17,5 @@ function main() {
     
     console.log(!!s.match(re));
 }
+
+//notes
